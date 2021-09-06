@@ -1,0 +1,15 @@
+Arrays and Strings:
+https://leetcode.com/list/x5sb3e07
+
+Recursion and DP:
+https://leetcode.com/list/x9h4vixh
+
+Sorting and Searching:
+https://leetcode.com/list/x9xeb9l5
+
+Trees:
+https://leetcode.com/list/x5k1b7nc
+
+It's still under develop :)
+
+ctci
